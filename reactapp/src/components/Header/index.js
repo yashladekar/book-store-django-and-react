@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+import SearchComponents from "../SearchComponents";
 const navigations = [
   { name: "Home", href: "/", current: true },
   { name: "Products", href: "/products", current: false },
@@ -38,6 +38,7 @@ export default function Header() {
                 {navigation.name}
               </Link>
             ))}
+            <SearchComponents />
 
             {/* <a className="mr-5 hover:text-gray-900" href="/">
               First Link
