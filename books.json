@@ -1,0 +1,420 @@
+[
+    {
+        "title": "Programming Python, 3/E",
+        "authors": [
+            "Mark Lutz"
+        ],
+        "price": 0.0,
+        "image_url": "",
+        "rating": 1,
+        "description": "Whether you're a novice or an advanced practitioner, you'll find this refreshed book more than lives up to its reputation. Programming Python, Third Edition teaches you the right way to code. It explains Python language syntax and programming techniques in a clear and concise manner, with numerous examples that illustrate both correct usage and common idioms. By reading this comprehensive guide, you'll learn how to apply Python in real-world problem domains such as:"
+    },
+    {
+        "title": "Python Programming",
+        "authors": [
+            "John M. Zelle"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=aJQILlLxRmAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 4,
+        "description": "This book is suitable for use in a university-level first course in computing (CS1), as well as the increasingly popular course known as CS0. It is difficult for many students to master basic concepts in computer science and programming. A large portion of the confusion can be blamed on the complexity of the tools and materials that are traditionally used to teach CS1 and CS2. This textbook was written with a single overarching goal: to present the core concepts of computer science as simply as possible without being simplistic."
+    },
+    {
+        "title": "Learning Python",
+        "authors": [
+            "Mark Lutz"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=4pgQfXQvekcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 3,
+        "description": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz\u2019s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It\u2019s an ideal way to begin, whether you\u2019re new to programming or a professional developer versed in other languages. Complete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3\u2014 the latest releases in the 3.X and 2.X lines\u2014plus all other releases in common use today. You\u2019ll also learn some advanced language features that recently have become more common in Python code. Explore Python\u2019s major built-in object types such as numbers, lists, and dictionaries Create and process objects with Python statements, and learn Python\u2019s general syntax model Use functions to avoid code redundancy and package code for reuse Organize statements, functions, and other tools into larger components with modules Dive into classes: Python\u2019s object-oriented programming tool for structuring code Write large programs with Python\u2019s exception-handling model and development tools Learn advanced Python tools, including decorators, descriptors, metaclasses, and Unicode processing"
+    },
+    {
+        "title": "Basics of Python Programming",
+        "authors": [
+            "Dr. Pratiyush Guleria"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=lMfaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Learn a Programmer-Friendly language KEY FEATURES Strengthens the foundations, as a detailed explanation of programming language concepts are given in a simple manner Lists down all the important points that you need to know related to various topics in an organized manner Prepares you for coding related interview and theoretical questions Provides an in-depth explanation of complex topics and Questions It focuses on how to think logically to solve a problem Follows a systematic approach that will help you to prepare for an interview in a short duration of time Exercises are exceptionally useful to complete the reader\u2019s understanding of a topic DESCRIPTION Book will come as a relief to the students wishing to go through a comprehensive work explaining the programming concepts of Python. Examples are given with proper description, offering a variety of practical examples and conceptual problems along with their systematically worked out solutions. It also covers all the concepts which are helpful for the students and beginners to learn the basics of Python programming. WHAT WILL YOU LEARN This book is written, taking into consideration the skills required at the beginner level for understanding Python Programming Concepts. The book covers the practical examples of Python in an easy way so that students can able to understand efficiently. WHO THIS BOOK IS FOR Book promises to be a perfect starting point for beginners and an asset for those having insight towards programming. Table of Contents 1. Introduction 2. Conditions and Loops 3. Arrays and Functions 4. Lists, Tuples, Iterators and GeneratorsDictionaries and Modules 5. File Handling and Databases 6. Object-Oriented Programming 7. Regular Expressions, Date, and Time 8. Exception Handling 9. Practice Exercise"
+    },
+    {
+        "title": "Introduction to Python Programming",
+        "authors": [
+            "Gowrishankar S",
+            "Veena A"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=iIqADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 5,
+        "description": "Introduction to Python Programming is written for students who are beginners in the field of computer programming. This book presents an intuitive approach to the concepts of Python Programming for students. This book differs from traditional texts not only in its philosophy but also in its overall focus, level of activities, development of topics, and attention to programming details. The contents of the book are chosen with utmost care after analyzing the syllabus for Python course prescribed by various top universities in USA, Europe, and Asia. Since the prerequisite know-how varies significantly from student to student, the book\u2019s overall overture addresses the challenges of teaching and learning of students which is fine-tuned by the authors\u2019 experience with large sections of students. This book uses natural language expressions instead of the traditional shortened words of the programming world. This book has been written with the goal to provide students with a textbook that can be easily understood and to make a connection between what students are learning and how they may apply that knowledge. Features of this book This book does not assume any previous programming experience, although of course, any exposure to other programming languages is useful This book introduces all of the key concepts of Python programming language with helpful illustrations Programming examples are presented in a clear and consistent manner Each line of code is numbered and explained in detail Use of f-strings throughout the book Hundreds of real-world examples are included and they come from fields such as entertainment, sports, music and environmental studies Students can periodically check their progress with in-chapter quizzes that appear in all chapters"
+    },
+    {
+        "title": "Python Tutorial",
+        "authors": [
+            "Guido Rossum"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=vkWltgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "rating": 0,
+        "description": "Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python's elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms. The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python Web site, https: //www.python.org/, and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation. The Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). Python is also suitable as an extension language for customizable applications. This tutorial introduces the reader informally to the basic concepts and features of the python language and system. It helps to have a Python interpreter handy for hands-on experience, but all examples are self contained, so the tutorial can be read off-line as well. For a description of standard objects and modules, see library-index. reference-index gives a more formal de\ufb01nition of the language. To write extensions in C or C++, read extending-index and c-api-index. There are also several books covering Python in depth. This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python's most noteworthy features, and will give you a good idea of the language's \ufb02avor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in library-index. The Glossary is also worth going through."
+    },
+    {
+        "title": "Automate the Boring Stuff with Python, 2nd Edition",
+        "authors": [
+            "Al Sweigart"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=RQ6xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 4.5,
+        "description": "The second edition of this best-selling Python book (over 500,000 copies sold!) uses Python 3 to teach even the technically uninclined how to write programs that do in minutes what would take hours to do by hand. There is no prior programming experience required and the book is loved by liberal arts majors and geeks alike. If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you? In this fully revised second edition of the best-selling classic Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand--no prior programming experience required. You'll learn the basics of Python and explore Python's rich library of modules for performing specific tasks, like scraping data off websites, reading PDF and Word documents, and automating clicking and typing tasks. The second edition of this international fan favorite includes a brand-new chapter on input validation, as well as tutorials on automating Gmail and Google Sheets, plus tips on automatically updating CSV files. You'll learn how to create programs that effortlessly perform useful feats of automation to: \u2022 Search for text in a file or across multiple files \u2022 Create, update, move, and rename files and folders \u2022 Search the Web and download online content \u2022 Update and format data in Excel spreadsheets of any size \u2022 Split, merge, watermark, and encrypt PDFs \u2022 Send email responses and text notifications \u2022 Fill out online forms Step-by-step instructions walk you through each program, and updated practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks. Don't spend your time doing work a well-trained monkey could do. Even if you've never written a line of code, you can make your computer do the grunt work. Learn how in Automate the Boring Stuff with Python, 2nd Edition."
+    },
+    {
+        "title": "PYTHON PROGRAMMING.",
+        "authors": [
+            "C.H.SATYANARAYANA. M. RADHIKA MANI"
+        ],
+        "price": 0.0,
+        "image_url": "",
+        "rating": 0,
+        "description": ""
+    },
+    {
+        "title": "Python Programming for Data Analysis",
+        "authors": [
+            "Jos\u00e9 Unpingco"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=f7osEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "This textbook grew out of notes for the ECE143 Programming for Data Analysis class that the author has been teaching at University of California, San Diego, which is a requirement for both graduate and undergraduate degrees in Machine Learning and Data Science. This book is ideal for readers with some Python programming experience. The book covers key language concepts that must be understood to program effectively, especially for data analysis applications. Certain low-level language features are discussed in detail, especially Python memory management and data structures. Using Python effectively means taking advantage of its vast ecosystem. The book discusses Python package management and how to use third-party modules as well as how to structure your own Python modules. The section on object-oriented programming explains features of the language that facilitate common programming patterns. After developing the key Python language features, the book moves on to third-party modules that are foundational for effective data analysis, starting with Numpy. The book develops key Numpy concepts and discusses internal Numpy array data structures and memory usage. Then, the author moves onto Pandas and details its many features for data processing and alignment. Because strong visualizations are important for communicating data analysis, key modules such as Matplotlib are developed in detail, along with web-based options such as Bokeh, Holoviews, Altair, and Plotly. The text is sprinkled with many tricks-of-the-trade that help avoid common pitfalls. The author explains the internal logic embodied in the Python language so that readers can get into the Python mindset and make better design choices in their codes, which is especially helpful for newcomers to both Python and data analysis. To get the most out of this book, open a Python interpreter and type along with the many code samples."
+    },
+    {
+        "title": "Python Programming Blueprints",
+        "authors": [
+            "Daniel Furtado",
+            "Marcus Pennington"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=COlODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "How to build useful, real-world applications in the Python programming language Key Features Deliver scalable and high-performing applications in Python. Delve into the great ecosystem of Python frameworks and libraries through projects that you will build with this book. This comprehensive guide will help you demonstrate the power of Python by building practical projects. Book Description Python is a very powerful, high-level, object-oriented programming language. It's known for its simplicity and huge community support. Python Programming Blueprints will help you build useful, real-world applications using Python. In this book, we will cover some of the most common tasks that Python developers face on a daily basis, including performance optimization and making web applications more secure. We will familiarize ourselves with the associated software stack and master asynchronous features in Python. We will build a weather application using command-line parsing. We will then move on to create a Spotify remote control where we'll use OAuth and the Spotify Web API. The next project will cover reactive extensions by teaching you how to cast votes on Twitter the Python way. We will also focus on web development by using the famous Django framework to create an online game store. We will then create a web-based messenger using the new Nameko microservice framework. We will cover topics like authenticating users and, storing messages in Redis. By the end of the book, you will have gained hands-on experience in coding with Python. What you will learn Learn object-oriented and functional programming concepts while developing projects The dos and don'ts of storing passwords in a database Develop a fully functional website using the popular Django framework Use the Beautiful Soup library to perform web scrapping Get started with cloud computing by building microservice and serverless applications in AWS Develop scalable and cohesive microservices using the Nameko framework Create service dependencies for Redis and PostgreSQL Who this book is for This book is for software developers who are familiar with Python and want to gain hands-on experience with web and software development projects. A basic knowledge of Python programming is required."
+    },
+    {
+        "title": "Python Programming",
+        "authors": [
+            "Vijay Kumar Sharma",
+            "Vimal Kumar",
+            "Swati Sharma",
+            "Shashwat Pathak"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=lkM3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Maintaining a practical perspective, Python Programming: A Practical Approach acquaints you with the wonderful world of programming. The book is a starting point for those who want to learn Python programming. The backbone of any programming, which is the data structure and components such as strings, lists, etc., have been illustrated with many examples and enough practice problems to instill a level of self-confidence in the reader. Drawing on knowledge gained directly from teaching Computer Science as a subject and working on a wide range of projects related to ML, AI, deep learning, and blockchain, the authors have tried their best to present the necessary skills for a Python programmer. Once the foundation of Python programming is built and the readers are aware of the exact structure, dimensions, processing, building blocks, and representation of data, they can readily take up their specific problems from the area of interest and solve them with the help of Python. These include, but are not limited to, operators, control flow, strings, functions, module processing, object-oriented programming, exception and file handling, multithreading, synchronization, regular expressions, and Python database programming. This book on Python programming is specially designed to keep readers busy with learning fundamentals and generates a sense of confidence by attempting the assignment problems. We firmly believe that explaining any particular technology deviates from learning the fundamentals of a programming language. This book is focused on helping readers attempt implementation in their areas of interest through the skills imparted through this book. We have attempted to present the real essence of Python programming, which you can confidently apply in real life by using Python as a tool. Salient Features \uf0b7 Based on real-world requirements and solution. \uf0b7 Simple presentation without avoiding necessary details of the topic. \uf0b7 Executable programs on almost every topic. \uf0b7 Plenty of exercise questions, designed to test readers\u2019 skills and understanding. Purposefully designed to be instantly applicable, Python Programming: A Practical Approach provides implementation examples so that the described subject matter can be immediately implemented due to the well-known versatility of Python in handling different data types with ease."
+    },
+    {
+        "title": "Python",
+        "authors": [
+            "Paul Jones"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=JZgzvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "rating": 0,
+        "description": "Master Python Programming Today Fast And Easily!! UPDATED VERSION This book contains proven steps and strategies to learn the essentials of Python Programming. It highlights the important concepts that every beginner to intermediate programmer should know and presents relevant and practical examples. It aims to provide a solid foundation for people who want to start a career in Python Programming. This book is a must for programming enthusiasts or students who need to learn and understand Python easily, quickly, and methodically. A few advanced topics were added to satisfy long term python users. These topics may or may not be suitable for begginers depending on their situation. Here is a preview of what this book will offer: What is Python? What software you need to code and run Python programs? What are variables? What mathematical operators are there in Python? What are the common data types in Python? What are Lists and Tuples? How to format strings How to accept user inputs and display outputs How to make decisions with If statements How to control the flow of program with loops How to handle errors and exceptions What are functions and modules? How to define your own functions and modules How to work with external files The manipulation of various Python Programming Softwares Interactions between the user and computer using Python Method to develop your first software and beyond (including in-depth data manipulation) The future prospects of learning Python Advanced topics include: Object - Oriented Programming Regular Expressions Managing Parameters From The Command-Line Processing Comma-Separated Data Don't wait any longer, get your copy today!"
+    },
+    {
+        "title": "Basic Core Python Programming",
+        "authors": [
+            "Meenu Kohli"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=86MqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Learn the most popular software programming language in easy steps KEY FEATURES \u25cf Extensive coverage on fundamentals and core concepts of Python programming. \u25cf A complete reference guide to crack Python Interviews and exams. \u25cf Includes ample MCQs and solved examples to prepare you for theory and practical exams. \u25cf Easy-to-understand text with explanatory illustrations. DESCRIPTION Basic Core Python Programming is an absolute beginners book. It focuses on the fundamentals of Python programming and simplifies coding concepts. This book makes it easy to learn the concepts of Python variables, Expressions, Decision structures, and Iteration. Equipped with a lot of exercises and Q&As, you don\u2019t just practice the programming but also gain an in-depth understanding of the basic concepts of Python. You will start your journey right from how to go about Python installation and start using its interactive development environment and go on to learn how to build logic and implement it with coding. You will explore different types of data, operators, and in-built functions. This book covers numerous coding examples that will help you understand the importance of each data type, how to work with each one of them, and when to use them. You can learn some more practical useful concepts like how to implement control structures and use them for decision making and controlling the program flow. WHAT YOU WILL LEARN \u25cf Stronghold on Python variables, expressions, decision structures, and iterations. \u25cf Practical knowledge on how to work with various data types, operators, and in-built functions. \u25cf Learn to implement strings, lists, arrays, and control structures. \u25cf Learn how to control the program flow and how to use it for decision-making. \u25cf A great reference book on Python basics for software programmers. WHO THIS BOOK IS FOR This book is highly appealing to all tech-savvy students, programming enthusiasts, IT undergraduates, and computer science students. You do not need any prior knowledge of programming to begin with this book as long as you have the interest to learn to program. TABLE OF CONTENTS 1. Introduction 2. Python Basics 3. Numbers, Operators, and In-built Functions 4. Strings 5. Lists and Arrays 6. Tuples and Dictionaries 7. Sets and Frozen Sets 8. Program Flow Control in Python"
+    },
+    {
+        "title": "Taming PYTHON By Programming",
+        "authors": [
+            "Jeeva Jose"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=6HgFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "This is a great book for Python Beginner and Advanced Learner which covers Basics to Advanced Python Programming where each topic is explained with the help of Illustrations and Examples. More than 450 solved programs of this book are tested in Python 3.4.3 for windows. The range of Python Topics covered makes this book unique which can be used as a self study material or for instructor assisted teaching. This books covers Python Syllabus of all major national and international universities. Also it includes frequently asked questions for interviews and examination which are provided at the end of each chapter."
+    },
+    {
+        "title": "Python Programming On Win32",
+        "authors": [
+            "Mark Hammond",
+            "Andy Robinson"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=fzUCGtyg0MMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 3.5,
+        "description": "A demonstration of Python's basic technologies showcases the programming language's possiblities as a Windows development and administration tool."
+    },
+    {
+        "title": "Python Programming",
+        "authors": [
+            "Reema Thareja"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=HYpbwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "rating": 4,
+        "description": "Python Programming is designed as a textbook to fulfil the requirements of the first-level course in Python programming. It is suited for undergraduate degree students of computer science engineering, IT as well as computer applications. This book will enable students to apply the Python programming concepts in solving real-world problems. The book begins with an introduction to computers, problem solving approaches, programming languages, object oriented programming, and Python programming. Separate chapters dealing with the important constructs of Python language such as control statements, functions, strings, files, data structures, classes and objects, inheritance, operator overloading, and exceptions are provided in the book."
+    },
+    {
+        "title": "Python Cookbook",
+        "authors": [
+            "David Beazley",
+            "Brian K. Jones"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=f7wGeA71_eUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 5,
+        "description": "If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket. Packed with practical recipes written and tested with Python 3.3, this unique cookbook is for experienced Python programmers who want to focus on modern tools and idioms. Inside, you\u00e2??ll find complete recipes for more than a dozen topics, covering the core Python language as well as tasks common to a wide variety of application domains. Each recipe contains code samples you can use in your projects right away, along with a discussion about how and why the solution works. Topics include: Data Structures and Algorithms Strings and Text Numbers, Dates, and Times Iterators and Generators Files and I/O Data Encoding and Processing Functions Classes and Objects Metaprogramming Modules and Packages Network and Web Programming Concurrency Utility Scripting and System Administration Testing, Debugging, and Exceptions C Extensions"
+    },
+    {
+        "title": "Learn Python Programming",
+        "authors": [
+            "Fabrizio Romano",
+            "Heinrich Kruger"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=abtLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Get up and running with Python 3.9 through concise tutorials and practical projects in this fully updated third edition. Purchase of the print or Kindle book includes a free eBook in PDF format. Key Features Extensively revised with richer examples, Python 3.9 syntax, and new chapters on APIs and packaging and distributing Python code Discover how to think like a Python programmer Learn the fundamentals of Python through real-world projects in API development, GUI programming, and data science Book Description Learn Python Programming, Third Edition is both a theoretical and practical introduction to Python, an extremely flexible and powerful programming language that can be applied to many disciplines. This book will make learning Python easy and give you a thorough understanding of the language. You'll learn how to write programs, build modern APIs, and work with data by using renowned Python data science libraries. This revised edition covers the latest updates on API management, packaging applications, and testing. There is also broader coverage of context managers and an updated data science chapter. The book empowers you to take ownership of writing your software and become independent in fetching the resources you need. You will have a clear idea of where to go and how to build on what you have learned from the book. Through examples, the book explores a wide range of applications and concludes by building real-world Python projects based on the concepts you have learned. What you will learn Get Python up and running on Windows, Mac, and Linux Write elegant, reusable, and efficient code in any situation Avoid common pitfalls like duplication, complicated design, and over-engineering Understand when to use the functional or object-oriented approach to programming Build a simple API with FastAPI and program GUI applications with Tkinter Get an initial overview of more complex topics such as data persistence and cryptography Fetch, clean, and manipulate data, making efficient use of Python's built-in data structures Who this book is for This book is for everyone who wants to learn Python from scratch, as well as experienced programmers looking for a reference book. Prior knowledge of basic programming concepts will help you follow along, but it's not a prerequisite."
+    },
+    {
+        "title": "PYTHON PROGRAMMING",
+        "authors": [
+            "Clive Campbell"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=gJUfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "rating": 0,
+        "description": "THIS BOOK INCLUDES: Python for beginners PYTHON PROGRAMMING - The Ultimate Guide from beginners to Experts PYTHON PROGRAMMING - The Ultimate Expert Guide . You Are About to Discover The Ins And Outs Of Python Programming Language From The Basics To Its Application In Advanced Computing Concepts Like Machine Learning, Computer Science, Artificial Intelligence And More! Python is now: The preferred programming language for advanced computing concepts like data analytics, machine learning, artificial intelligence, big data, computer science and more The most taught first programming language One of the most common used programming languages in the world The programming language that has been used to write code for important processes on some of the most popular websites in the world like Facebook, Dropbox, Google Maps, YouTube, Instagram and many others Do you know why? The short answer is \"because it works\". And the long answer is this: \"It is highly scalable, easy to use, with a rich powerful library that make it possible to use it for everything from writing simple code to advanced computing, a very active online community, a large collection of third party modules and packages as well as the fact that it also supports object oriented development!\" By virtue that you are reading this, it is clear you want to start learning programming with python, from the basics all the way to the advanced computing stuff. And this 3 in 1 book is about to show you the ins and outs of python to do just that. I know you have lots of questions going through your mind... Where exactly do you start as you learn python? Why should you make python your programming language of choice whether you are a complete beginner to programming or not? How do you write your first program with python? How can you start using python for advanced computing stuff like artificial intelligence, robotics, machine learning, data analytics, big data, data science and the likes? If you have these and other related questions, this 3 in 1 book is for you so keep reading. More precisely, this 3 in 1 book will teach you: An in-depth analysis of python; what it is and how to install it on different operating systems How you stand to benefit by learning Python Why python is considered the most suitable programming language for advanced computing such as in machine learning, deep learning, artificial intelligence etc. Steps to take to write your very first program on python Step by step process to perform data analysis with python Everything you need to know about variables in python The most suitable python libraries you should use for advanced computing How to leverage the power of python to handle a variety of machine learning algorithms How you can insert comments in python to keep your code clean How to work with files on python Simple projects to get you started with python Varied data types used in python Powerful tips for successful use of python and how to handle any problems in code that may arise And MUCH MORE! Even if this is your first programming language to learn, you are in safe hands, as this book will break down the seemingly complex terms and concepts using simple, straightforward language to enable you put what you learn into action. Click Buy Now to get started!"
+    },
+    {
+        "title": "Expert Python Programming",
+        "authors": [
+            "Micha\u0142 Jaworski",
+            "Tarek Ziad\u00e9"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=s1mWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Refine your Python programming skills and build professional grade applications with this comprehensive guide Key FeaturesCreate manageable code that can run in various environments with different sets of dependenciesImplement effective Python data structures and algorithms to write optimized codeDiscover the exciting new features of Python 3.7Book Description Python is a dynamic programming language that's used in a wide range of domains thanks to its simple yet powerful nature. Although writing Python code is easy, making it readable, reusable, and easy to maintain is challenging. Complete with best practices, useful tools, and standards implemented by professional Python developers, the third edition of Expert Python Programming will help you overcome this challenge. The book will start by taking you through the new features in Python 3.7. You'll then learn the advanced components of Python syntax, in addition to understanding how to apply concepts of various programming paradigms, including object-oriented programming, functional programming, and event-driven programming. This book will also guide you through learning the best naming practices, writing your own distributable Python packages, and getting up to speed with automated ways of deploying your software on remote servers. You\u2019ll discover how to create useful Python extensions with C, C++, Cython, and CFFI. Furthermore, studying about code management tools, writing clear documentation, and exploring test-driven development will help you write clean code. By the end of the book, you will have become an expert in writing efficient and maintainable Python code. What you will learnExplore modern ways of setting up repeatable and consistent development environmentsPackage Python code effectively for community and production useLearn modern syntax elements of Python programming such as f-strings, enums, and lambda functionsDemystify metaprogramming in Python with metaclassesWrite concurrent code in PythonExtend Python with code written in different languagesIntegrate Python with code written in different languagesWho this book is for This book will appeal to you if you\u2019re a programmer looking to take your Python knowledge to the next level by writing efficient code and learning the latest features of version 3.7 and above."
+    },
+    {
+        "title": "Advanced Python Programming",
+        "authors": [
+            "Dr. Gabriele Lanaro",
+            "Quan Nguyen",
+            "Sakis Kasampalis"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=sgyLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Create distributed applications with clever design patterns to solve complex problems Key FeaturesSet up and run distributed algorithms on a cluster using Dask and PySparkMaster skills to accurately implement concurrency in your codeGain practical experience of Python design patterns with real-world examplesBook Description This Learning Path shows you how to leverage the power of both native and third-party Python libraries for building robust and responsive applications. You will learn about profilers and reactive programming, concurrency and parallelism, as well as tools for making your apps quick and efficient. You will discover how to write code for parallel architectures using TensorFlow and Theano, and use a cluster of computers for large-scale computations using technologies such as Dask and PySpark. With the knowledge of how Python design patterns work, you will be able to clone objects, secure interfaces, dynamically choose algorithms, and accomplish much more in high performance computing. By the end of this Learning Path, you will have the skills and confidence to build engaging models that quickly offer efficient solutions to your problems. This Learning Path includes content from the following Packt products: Python High Performance - Second Edition by Gabriele LanaroMastering Concurrency in Python by Quan NguyenMastering Python Design Patterns by Sakis KasampalisWhat you will learnUse NumPy and pandas to import and manipulate datasetsAchieve native performance with Cython and NumbaWrite asynchronous code using asyncio and RxPyDesign highly scalable programs with application scaffoldingExplore abstract methods to maintain data consistencyClone objects using the prototype patternUse the adapter pattern to make incompatible interfaces compatibleEmploy the strategy pattern to dynamically choose an algorithmWho this book is for This Learning Path is specially designed for Python developers who want to build high-performance applications and learn about single core and multi-core programming, distributed concurrency, and Python design patterns. Some experience with Python programming language will help you get the most out of this Learning Path."
+    },
+    {
+        "title": "Python Made Simple",
+        "authors": [
+            "Rydhm Beri"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=hgKwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "DESCRIPTION In the last few years, python gained popularity and became the first choice of the students, teachers as well as professionals. It is being used in different fields such as education, software development, website development and also in various advanced research. In the field of education it allows students to learn the programming language in an easier and efficient manner. In the information technology field it can be used as a language for creating softwares as well as for web developments. It can be integrated with different platforms like Django. In research, Python programming can be used in simulation or it can be used for machine learning techniques. The primary goal of this text is to create a pedagogically sound and accessible textbook that emphasises on core concepts of Python programming. The book contains lots of practical examples to show the working of a particular code construct. The book can be very helpful in order to learn the basic and advance concepts of python programming. In the beginning of the book the focus is on the basic concepts related to core python programming starting from the installation phase of python interpreter to building the concepts for the reader towards python programming. Then the book moves towards the concept of different statements and programming conditions that python programming can handle in an easier manner. It then moves to the concepts related to object oriented programming and at last the reader will get to know about the database connectivity with the python program. KEY FEATURES Acquire basic concepts related to python programming Understand the core functionalities of Python Programming Provide the information regarding idle IDE Computational Problem solving in Python Object oriented concepts in Python Database connectivity with Python WHAT WILL YOU LEARN You can learn the core concept related to python programming You will get to learn how to program in python You can learn how Python programming helps to solve computational problems By reading this book you can learn how to work with python You will get familiarity with the python programming concepts. You will learn how to operate idle IDE and how it can be used to write python program in easier way. WHO THIS BOOK IS FOR The book is intended for anyone who wish to learn python programming language. This book also covers the syllabus of various universities and readers can use this book as a help in their academic education. This book can be used by readers to start with python programming from basics to advanced level even without having any prior knowledge of python programming. Table of Contents Introduction to Python Python Fundamentals Expression and Operators Control Statements Functions List Processing Tuple Processing Dictionary Processing String Processing File Processing Exception Handling Object Oriented Programming Inheritance & Polymorphism Database Design in Python"
+    },
+    {
+        "title": "Problem Solving and Python Programming",
+        "authors": [
+            "J Jayalakshmi et al."
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=U3scEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "This textbook is based on Anna University revised syllabus regulation 2017 for first year B.E/B.tech students to understand the problem solving and python programming. This book provides the knowledge of problem solving techniques, fundamental concepts of python programming."
+    },
+    {
+        "title": "Advance Core Python Programming",
+        "authors": [
+            "Meenu Kohli"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=WDIyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Mastering Advanced Python Programming KEY FEATURES \u25cf In-depth coverage on fundamentals of functions, recursion, classes, inheritance, and files. \u25cf Mastery of advanced topics - Database connectivity, Errors and Exception, Testing and Debugging, threads, Data visualization, and Data analysis. \u25cf In-depth coverage of advanced concepts such as data structures, and algorithms. \u25cf Simplifies GUI and Widgets. \u25cf Learn to connect GUI with MySQL to create a complete working application. \u25cf Introduction to Flask. \u25cf Thorough, detailed, and complete coverage of all topics along with ample coding examples and illustrations. DESCRIPTION Advance Core Python Programming is designed for Programmers who have a good understanding of Python basics and are ready to take the next steps. For entry-level Python programmers willing to dive deeper into programming, this book provides a path that will help them to add innovative features to their applications. This book starts by introducing you to the concept of Functions and Recursion and then moves on to higher levels of introducing you to OOP concepts, Files, integrating Python with database, threading, errors, exceptions, testing, debugging, data visualization, data analysis, GUI, data structures and algorithms. All these topics are the need of the hour and this book simplifies all these critical and essential concepts of Python for you. Knowledge of these topics will ease the functioning of your envisioned application. Throughout the book, you will have access to several coding examples which will help you to understand the real practical application of advanced Python concepts and you will be able to work on any kind of Python project with confidence. WHAT YOU WILL LEARN \u25cf Learn advanced Python topics in simple language. \u25cf Learn how to code in easy-to-follow steps. \u25cf Learn to create your own classes and functions. \u25cf Learn to work with Files. \u25cf Learn to configure MySQL and make Python programs interact with the MySQL database. \u25cf Get to know different types of errors, exceptions, and ways to test, debug and rectify them. \u25cf Learn how to use Python for Data Visualization and Data Analysis. \u25cf Learn to Create GUI features and add Widgets. \u25cf Learn about data structures and algorithms. \u25cf Learn to create and develop stack, queues, trees, and linked lists. \u25cf Explore Flask, its features, and how to use it to build web applications. \u25cf Learn to work on complex code by following simple step-by-step instructions. \u25cf Prepare for theory and practical exams related to advanced Python Concepts. WHO THIS BOOK IS FOR This book is highly appealing to all tech-savvy students, programming enthusiasts, IT graduates, and computer science professionals who want to build strong proficiency in building Python applications. Prior understanding of Python basic coding concepts like variables, expressions, and control structures is required to begin with this book. You can also read Basic Core Python Programming to develop strong fundamentals before you start with this book. TABLE OF CONTENTS 1. Functions and Recursion 2. Classes, Objects, and Inheritance 3. Files 4. MySQL for Python 5. Python Threads 6. Errors, Exceptions, Testing, and Debugging 7. Data Visualization and Data Analysis 8. Creating the GUI form and Adding Widgets 9. MySQL and Python Graphical User Interface 10. Stack, Queue, and Deque 11. Linked List 12. Trees 13. Searching and Sorting 14. Getting Started with Flask"
+    },
+    {
+        "title": "Programming for Computations - Python",
+        "authors": [
+            "Svein Linge",
+            "Hans Petter Langtangen"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=INlCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "This book presents computer programming as a key method for solving mathematical problems. There are two versions of the book, one for MATLAB and one for Python. The book was inspired by the Springer book TCSE 6: A Primer on Scientific Programming with Python (by Langtangen), but the style is more accessible and concise, in keeping with the needs of engineering students. The book outlines the shortest possible path from no previous experience with programming to a set of skills that allows the students to write simple programs for solving common mathematical problems with numerical methods in engineering and science courses. The emphasis is on generic algorithms, clean design of programs, use of functions, and automatic tests for verification."
+    },
+    {
+        "title": "Python for Kids",
+        "authors": [
+            "Jason R. Briggs"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 4.5,
+        "description": "Python is a powerful, expressive programming language that\u2019s easy to learn and fun to use! But books about learning to program in Python can be kind of dull, gray, and boring, and that\u2019s no fun for anyone. Python for Kids brings Python to life and brings you (and your parents) into the world of programming. The ever-patient Jason R. Briggs will guide you through the basics as you experiment with unique (and often hilarious) example programs that feature ravenous monsters, secret agents, thieving ravens, and more. New terms are defined; code is colored, dissected, and explained; and quirky, full-color illustrations keep things on the lighter side. Chapters end with programming puzzles designed to stretch your brain and strengthen your understanding. By the end of the book you\u2019ll have programmed two complete games: a clone of the famous Pong and \"Mr. Stick Man Races for the Exit\"\u2014a platform game with jumps, animation, and much more. As you strike out on your programming adventure, you\u2019ll learn how to: \u2013Use fundamental data structures like lists, tuples, and maps \u2013Organize and reuse your code with functions and modules \u2013Use control structures like loops and conditional statements \u2013Draw shapes and patterns with Python\u2019s turtle module \u2013Create games, animations, and other graphical wonders with tkinter Why should serious adults have all the fun? Python for Kids is your ticket into the amazing world of computer programming. For kids ages 10+ (and their parents) The code in this book runs on almost anything: Windows, Mac, Linux, even an OLPC laptop or Raspberry Pi!"
+    },
+    {
+        "title": "Python Programming Fundamentals",
+        "authors": [
+            "Nischay kumar Hegde"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=DDZRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 5,
+        "description": "This book has been written with two categories of readers in mind. This book can be manual for those who would want to excel in Python programming as well as for those who are new to Python programming and would want to learn. I hope that you will find what follows both instructive and at times entertaining too. The book is designed for programmers who already have some experience of using a modern high level procedural programming language like C/ C++. The book concentrates on the things that are essential to understand Python programming. Those who already know C will find the contents and example code snippets a bit interested. The syntax and coding constructs of Python programming paradigm is nearer to C but not exact. From my point of view, what matters for a programmer is \"Logic\" and \"Syntax\". It has been inevitable for programmers to learn and practice emerging programming paradigms. This is the first edition of the textbook hence a lot of brainstorming was required in order to properly structure each and every chapter. Appendix A addresses exercise questions of \"Python for Everybody\" by Charles R Severance. Appendix B is about Python solution to few commonly found programming problems. All the programs presented in the textbook are tested using PyCharm IDE. I hope the book meets the requirements of student fraternity and remains reachable throughout its multiple entry of editions. Also, PyCharm IDE installation guidelines included in the textbook."
+    },
+    {
+        "title": "Learn to Code by Solving Problems",
+        "authors": [
+            "Daniel Zingaro"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=Wo4TEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Learn to Code by Solving Problems is a practical introduction to programming using Python. It uses coding-competition challenges to teach you the mechanics of coding and how to think like a savvy programmer. Computers are capable of solving almost any problem when given the right instructions. That\u2019s where programming comes in. This beginner\u2019s book will have you writing Python programs right away. You\u2019ll solve interesting problems drawn from real coding competitions and build your programming skills as you go. Every chapter presents problems from coding challenge websites, where online judges test your solutions and provide targeted feedback. As you practice using core Python features, functions, and techniques, you\u2019ll develop a clear understanding of data structures, algorithms, and other programming basics. Bonus exercises invite you to explore new concepts on your own, and multiple-choice questions encourage you to think about how each piece of code works. You\u2019ll learn how to: \u2022 Run Python code, work with strings, and use variables \u2022 Write programs that make decisions \u2022 Make code more efficient with while and for loops \u2022 Use Python sets, lists, and dictionaries to organize, sort, and search data \u2022 Design programs using functions and top-down design \u2022 Create complete-search algorithms and use Big O notation to design more efficient code By the end of the book, you\u2019ll not only be proficient in Python, but you\u2019ll also understand how to think through problems and tackle them with code. Programming languages come and go, but this book gives you the lasting foundation you need to start thinking like a programmer."
+    },
+    {
+        "title": "Coding for Kids in Python: Python Programming Projects for Kids and Beginners to Get Started Programming Fun Games",
+        "authors": [
+            "Bob Mather"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=0z5vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Are you looking to teach your kid how to code? Or are you looking to start coding? This book on beginner Python is the answer. The whole world seems to be running on computers. Everything's going digital. Everybody's trying to learn how to code. But most people fail to get far. Coding is a tough skills to learn; and even tougher to master. Coding takes time to learn. The younger one starts the better. However, coding can be a lot of fun and gratifying. Kids who learn the basics well and code fun projects get hooked on it. And it's amazing to see how fast kids can improve if they enjoy it. The important thing is to get a step-by-step beginners' guide that starts from the very basics. This book starts off with the very basics; how to install the software, set up and write your first lines of code. There are exercises at the end of each chapter that can test your new found knowledge and move you ahead. And then, once you master those skills, we get you a few more advanced skills that can get you started making simple games, animations and websites. Even if you've never touched a computer in your life, you will find this book useful. Scroll up and Click 'Add to Cart' Now"
+    },
+    {
+        "title": "Python for Beginners",
+        "authors": [
+            "Nathan Metzler"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=rclSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Master the Python Environment and Become a Skilled Coder! When you open up Beginner\u2019s Guide to Python, you\u2019ll enter a new world of creative and lucrative possibilities. From executing Python scripts on various operating systems to learning identifiers and keywords, you\u2019ll be up-and-running in no time. Now is the time \u2013 get ready for the ride of a lifetime as you discover the inner workings of a language on which much of the world\u2019s newest devices depend. With this book, you can learn what you need to know to get started with this popular and powerful coding platform: Installing the necessary software Setting up your programming environment Learning the basic syntax of Python Understanding variables, operators, and control structures Absorbing the basics of Python functions This comprehensive and easy-to-read introduction to Python programming includes a wealth of programming tutorials for writing your first lines of code. You\u2019ll learn how to analyze and process raw data inputs and present useful information to users. With this guide, you can learn to calculate factorials, reverse numbers, and determine whether numbers are palindromes and even/odd. You\u2019ll even discover simple and straightforward methods for creating menu-driven programs with user-defined functions! Don\u2019t pass up this opportunity to make a great salary as a programmer and leave your mark on the world. Get your copy of Beginner\u2019s Guide to Python and take your first steps toward a bright future! It\u2019s quick and easy to order. Simply scroll up and click the BUY NOW WITH ONE CLICK button on the right-hand side of your screen."
+    },
+    {
+        "title": "Python Programming in Context",
+        "authors": [
+            "Bradley N. Miller",
+            "David L. Ranum"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=IhRTuSt6sakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "A user-friendly, object-oriented language, Python is quickly becoming the favorite introductory programming language among students and instructors. Many find Python to be a more lucid language than Java but with much of the functionality and therefore the ideal first language for those entering the world of Computer Science. Python Programming in Context is a clear, accessible introduction to the fundamental programming and problem solving concepts necessary for students at this level. The authors carefully build upon the many important computer science concepts and problem solving techniques throughout the text and offer relevant, real-world examples and exercises to reinforce key material. Programming skills throughout the text are linked to applied areas such as Image Processing, Cryptography, Astronomy, Music, the Internet, and Bioinformatics, giving students a well rounded look of its capabilities."
+    },
+    {
+        "title": "Black Hat Python",
+        "authors": [
+            "Justin Seitz"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=9MS9BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 4,
+        "description": "When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. But just how does the magic happen? In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you\u2019ll explore the darker side of Python\u2019s capabilities\u2014writing network sniffers, manipulating packets, infecting virtual machines, creating stealthy trojans, and more. You\u2019ll learn how to: \u2013Create a trojan command-and-control using GitHub \u2013Detect sandboxing and automate com\u00admon malware tasks, like keylogging and screenshotting \u2013Escalate Windows privileges with creative process control \u2013Use offensive memory forensics tricks to retrieve password hashes and inject shellcode into a virtual machine \u2013Extend the popular Burp Suite web-hacking tool \u2013Abuse Windows COM automation to perform a man-in-the-browser attack \u2013Exfiltrate data from a network most sneakily Insider techniques and creative challenges throughout show you how to extend the hacks and how to write your own exploits. When it comes to offensive security, your ability to create powerful tools on the fly is indispensable. Learn how in Black Hat Python. Uses Python 2"
+    },
+    {
+        "title": "Python Programming for Biology",
+        "authors": [
+            "Tim J. Stevens",
+            "Wayne Boucher"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=oQNoBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "This book introduces Python as a powerful tool for the investigation of problems in computational biology, for novices and experienced programmers alike."
+    },
+    {
+        "title": "Discovering Computer Science",
+        "authors": [
+            "Jessen Havill"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=LZX-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "\"Havill's problem-driven approach introduces algorithmic concepts in context and motivates students with a wide range of interests and backgrounds.\" -- Janet Davis, Associate Professor and Microsoft Chair of Computer Science, Whitman College \"This book looks really great and takes exactly the approach I think should be used for a CS 1 course. I think it really fills a need in the textbook landscape.\" -- Marie desJardins, Dean of the College of Organizational, Computational, and Information Sciences, Simmons University \"Discovering Computer Science is a refreshing departure from introductory programming texts, offering students a much more sincere introduction to the breadth and complexity of this ever-growing field.\" -- James Deverick, Senior Lecturer, The College of William and Mary \"This unique introduction to the science of computing guides students through broad and universal approaches to problem solving in a variety of contexts and their ultimate implementation as computer programs.\" -- Daniel Kaplan, DeWitt Wallace Professor, Macalester College Discovering Computer Science: Interdisciplinary Problems, Principles, and Python Programming is a problem-oriented introduction to computational problem solving and programming in Python, appropriate for a first course for computer science majors, a more targeted disciplinary computing course or, at a slower pace, any introductory computer science course for a general audience. Realizing that an organization around language features only resonates with a narrow audience, this textbook instead connects programming to students\u2019 prior interests using a range of authentic problems from the natural and social sciences and the digital humanities. The presentation begins with an introduction to the problem-solving process, contextualizing programming as an essential component. Then, as the book progresses, each chapter guides students through solutions to increasingly complex problems, using a spiral approach to introduce Python language features. The text also places programming in the context of fundamental computer science principles, such as abstraction, efficiency, testing, and algorithmic techniques, offering glimpses of topics that are traditionally put off until later courses. This book contains 30 well-developed independent projects that encourage students to explore questions across disciplinary boundaries, over 750 homework exercises, and 300 integrated reflection questions engage students in problem solving and active reading. The accompanying website \u2014 https://www.discoveringcs.net \u2014 includes more advanced content, solutions to selected exercises, sample code and data files, and pointers for further exploration."
+    },
+    {
+        "title": "Learn Python Programming",
+        "authors": [
+            "Fabrizio Romano"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=roYLuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "rating": 0,
+        "description": "Build a solid foundation in coding by utilizing the language and its core characteristics Key Features Leverage the features of Python programming through easy-to-follow examples Develop a strong set of programming skills that can be applied on all platforms Create GUIs and data science-based applications Book Description Learn Python Programming creates a foundation for those who are interested in developing their skills in Python programming. The book starts with the fundamentals of programming with Python and ends by exploring different topics such as GUIs and real-world apps. You will begin by exploring the foundations of and fundamental topics on Python and learn to manipulate them. Then, you'll explore different programming paradigms that will allow you to find the best approach to a situation, and you'll also understand how to carry out performance optimization as well as effective debugging. As you make your way through the chapters, you'll control the flow of a program, and persist and utilize an interchange format to exchange data. You'll also walk through cryptographic services in Python and understand secure tokens. Throughout, the book covers various types of applications, and it concludes with building real-world applications based on all the concepts that you learned. By the end of the book, you'll have a proper understanding of the Python language and a solid grasp on how to work with data. You'll know how to quickly build a website and harness the power of Python's renowned data science libraries. What you will learn Get Python up and running on Windows, Mac, and Linux Grasp fundamental concepts of coding using data structures and control flow Write elegant, reusable, and efficient code in any situation Understand when to use the functional or object-oriented programming (OOP) approach Walk through the basics of security and concurrent/asynchronous programming Create bulletproof, reliable software by writing tests Explore examples of GUIs, scripting, and data science Who this book is for Learn Python Programming is for individuals with relatively little experience in coding or Python. It's also ideal for aspiring programmers who need to write scripts or programs to accomplish tasks. The book takes you all the way to creating a full-fledged application."
+    },
+    {
+        "title": "Python Programming for the Absolute Beginner",
+        "authors": [
+            "Mike Dawson",
+            "Michael Dawson"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=0bnFAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "rating": 0,
+        "description": "Presents an introduction to the concepts of the Python computer language."
+    },
+    {
+        "title": "Python In - Depth",
+        "authors": [
+            "Ahidjo Ayeva",
+            "Kamon Ayeva",
+            "Aiman Saed "
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=uTsBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Build it with Python, the popular and batteries-included programming tool Key Features \u25cf Get familiar with the fundamentals of Python. \u25cf Understand the OOP paradigm and learn to write your custom object classes. \u25cf Explore tools and techniques to measure code execution for Performance Optimization. \u25cf Understand how Python is used in the main Cryptographic mechanisms. Description \u201cPython In-Depth\u201d gives you a detailed presentation of the possibilities for solving everyday problems, even complex ones using Python. You will begin by setting up Python in your system and then learn about the fundamentals of Python so that you have a rock-solid foundation to build upon. You will explore the foundations of Python programming, such as the built-in data types, functions, objects and classes, files, etc. You will then explore the different programming paradigms such as OOP, Functional, and Concurrent, and find the best approach given a situation. You will also learn how to utilize an interchange format to exchange data and understand how to carry out performance optimization, effective debugging, and security, among other techniques. Towards the end, you will enjoy two chapters dedicated to two domains where Python usage is currently very strong: Data Science and Web Development. What will you learn \u25cf Learn how to improve your Python Code Quality. \u25cf Explore the techniques and frameworks for Python GUI Programming. \u25cf Solve Data Science and Machine Learning problems using Python. \u25cf Get familiar with Python web frameworks; Django and Flask. Who this book is for This book is for anyone who is new to Software Development and wants to learn Python. Existing Python users can also use this book for a quick reference for the fundamentals and the features introduced in Python 3.7. Table of Contents 1. Getting Started with Python 2. Program Flow and Error Handling 3. Functions, Modules, and Functional Programming 4. Useful Modules and Libraries 5. Object Orientation 6. Decorators and Iterators 7. Files and Data Persistence 8. Context Managers 9. Performance Optimization 10. Cryptography 11. Concurrent Execution 12. Logging and Debugging 13. Code Style and Quality Assurance 14. Code Packaging and Dependencies 15. GUI Programming 16. Web Development 17. Data Science"
+    },
+    {
+        "title": "Murach's Python Programming (2nd Edition)",
+        "authors": [
+            "Joel Murach",
+            "Michael Urban"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=f4g9zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "rating": 0,
+        "description": "If you want to learn how to program but dont know where to start, this is the right book and the right language for you. From the first page, our self-paced approach will help you build competence and confidence in your programming skills. And Python is the best language ever for learning how to program because of its simplicity and breadthtwo features that are hard to find in a single language. But this isnt just a book for beginners! Our self-paced approach also works for experienced programmers, helping you learn Python faster and better than youve ever learned a language before. By the time youre through, you will have mastered the key Python skills that are needed on the job, including those for object-oriented, database, and GUI programming. To make all of this possible, section 1 presents an 8-chapter course that will get anyone off to a great start with Python. Section 2 builds on that base by presenting the other essential skills that every Python programmer should have. Section 3 shows you how to develop object-oriented programs, a critical skillset in todays world. And section 4 shows you how to apply all of the skills that youve already learned as you build database and GUI programs for the real world."
+    },
+    {
+        "title": "Programming with Python",
+        "authors": [
+            "T R Padmanabhan"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=ZeDmDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "Based on the latest version of the language, this book offers a self-contained, concise and coherent introduction to programming with Python. The book\u2019s primary focus is on realistic case study applications of Python. Each practical example is accompanied by a brief explanation of the problem-terminology and concepts, followed by necessary program development in Python using its constructs, and simulated testing. Given the open and participatory nature of development, Python has a variety of incorporated data structures, which has made it difficult to present it in a coherent manner. Further, some advanced concepts (super, yield, generator, decorator, etc.) are not easy to explain. The book specially addresses these challenges; starting with a minimal subset of the core, it offers users a step-by-step guide to achieving proficiency."
+    },
+    {
+        "title": "Programming in Python",
+        "authors": [
+            "Pooja Sharma"
+        ],
+        "price": 0.0,
+        "image_url": "http://books.google.com/books/content?id=zf_bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "rating": 0,
+        "description": "An interactive way to introduce the world of Python Programming KEY FEATURES Detailed comparisons and differentiation of python language from other most popular languages C/C++/Java. Authentic and extensive set of programming illustrations in every chapter of the book. Broad study on all the programming constructs of the python programming language such as native data types, looping, decision making, exception handling, file handling etc. Broad study of Python Object Oriented Programming features with illustrations. Numerous review questions and exercises at the end of every chapter. DESCRIPTION This Book is meant for wide range of readers who wish to learn the basics of Python programming language. It can be helpful for students, programmers, researchers, and software developers. The basic concepts of python programming are dealt in detail. The various concepts of python language such as object-oriented features, operators, native data types, control structures, functions, exception handling, file handling, etc are discussed in detail with the authentic programming illustration of each. presently, python programming is a hot topic among academician\u2019s researchers, and program developers. As a result, the book is designed to give an in-depth knowledge of programming in python. This book can be used as handbook as well as a guide for students of all computer science stream at any grade beginning from 10+1 to Research in PhD. To conclude, we hope that the readers will find this book a helpful guide and valuable source of information about python programming. WHAT WILL YOU LEARN Python Data Types, Input Output Operators and Expressions Control Structures Python Functions, Modules Exception Handling File Management, Classes and Objects Inheritance, Python Operator Overloading WHO THIS BOOK IS FOR Students, Programmers, researchers, and software developers who wish to learn the basics of Python programming language. Table of Contents 1. Introduction to Python Language 2. Python Data Types and Input Output 3. Operators and Expressions 4. Control Structures 5. Python Native Data Types 6. Python Functions 7. Python Modules 8. Exception Handling 9. File Management in Python 10. Classes and Objects 11. Inheritance 12. Python Operator Overloading"
+    }
+]
