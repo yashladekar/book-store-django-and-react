@@ -1,10 +1,10 @@
 import React, { useEffect } from "react";
 import Hero from "../../components/Hero";
 import ProductCard from "../../components/ProductCard";
-import FeatureCard from "../../components/FeatureCard";
-import Stats from "../../components/StatCard";
+// import Stats from "../../components/StatCard";
 import { useState } from "react";
 import axios from "axios";
+import Categories from "../../components/Categories";
 const Home = () => {
   const [products, setProducts] = useState([]);
   useEffect(() => {
@@ -13,7 +13,7 @@ const Home = () => {
         const response = await axios.get("http://127.0.0.1:8000/books/"); // Replace with your Django API endpoint URL
         // const data = await response.json();
         const data = response.data;
-        console.log(data);
+        // console.log(data);  
         setProducts(data);
       } catch (error) {
         console.error(error);
@@ -26,12 +26,13 @@ const Home = () => {
   return (
     <>
       <Hero />
+      <Categories />
       <div className="flex flex-col text-center w-full mb-20">
         <h2 className="text-xs text-indigo-500 tracking-widest font-medium title-medium title-font mb-1 ">
           Products
         </h2>
         <h1 className=" sm:text-3xl text-2xl font-medium title-font text-gray-900 ">
-          MOSt POPULAR PRODUCTS
+          MOST POPULAR PRODUCTS
         </h1>
       </div>
       {products.length > 0 ? (
@@ -42,8 +43,7 @@ const Home = () => {
 
       {/* <Products /> */}
       {/* <Products  products={products}/> */}
-      <FeatureCard />
-      <Stats />
+      {/* <Stats /> */}
     </>
   );
 };

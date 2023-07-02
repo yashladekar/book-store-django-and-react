@@ -1,11 +1,10 @@
 import React from "react";
 import { useLocation } from "react-router-dom";
-// import Product from "../../modules/Product";
 
 function SearchResults() {
   const location = useLocation();
   const results = location.state?.results || [];
-  console.log("Results:", results);
+  // console.log("Results:", results);
   return (
     <div>
       {results.map((book) => (
@@ -20,10 +19,12 @@ function SearchResults() {
                   {book.title}
                 </h1>
                 <p class="mb-8 leading-relaxed text-gray-600">
-                  By: {book.author} 
+                  By: {book.author}
                   <br />
-
-                  <span className=" text-yellow-400 font-semibold capital "> Ratings {book.ratings}</span>
+                  <span className=" text-yellow-400 font-semibold capital ">
+                    {" "}
+                    Ratings {book.ratings}
+                  </span>
                 </p>
                 <p class="mb-8 leading-relaxed">{book.description}</p>
                 <div class="flex justify-center">

@@ -7,18 +7,9 @@ function SearchComponents() {
   const navigate = useNavigate();
 
   const handleSearch = () => {
-    // Perform book search using the searchQuery state
-    console.log("Search query:", searchQuery);
-
-    // Call the backend API
     axios
-      .get("http://localhost:8000/books/", {
-        params: {
-          search: searchQuery,
-        },
-      })
+      .get(`http://localhost:8000/books/?search=${searchQuery}`)
       .then((response) => {
-        // Navigate to the results page and pass the results as state
         navigate("/results", { state: { results: response.data } });
       })
       .catch((error) => {

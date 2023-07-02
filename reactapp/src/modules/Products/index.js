@@ -1,41 +1,38 @@
-import React from "react";
+import React, { useEffect } from "react";
 import ProductCard from "../../components/ProductCard";
-import FeatureCard from "../../components/FeatureCard";
+import Categories from "../../components/Categories";
+import { useState } from "react";
+import axios from "axios";
 const Products = () => {
-  const categories = [
-    {
-      id: 1,
-      name: "Fiction",
-      image_url:
-        "https://images.unsplash.com/photo-1612837017391-0e3b5b5b0b0f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmljdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-    },
-    {
-      id: 2,
-      name: "Non-Fiction",
-      image_url:
-        "https://images.unsplash.com/photo-1612837017391-0e3b5b5b0b0f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmljdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-    },
-    {
-      id: 3,
-      name: "Science",
-      image_url:
-        "https://images.unsplash.com/photo-1612837017391-0e3b5b5b0b0f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmljdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-    },
-    {
-      id: 4,
-      name: "Technology",
-      image_url:
-        "https://images.unsplash.com/photo-1612837017391-0e3b5b5b0b0f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmljdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-    },
-  ];
+  const [products, setProducts] = useState([]);
+  useEffect(() => {
+    const fetchProducts = async () => {
+      try {
+        const response = await axios.get("http://127.0.0.1:8000/books/"); // Replace with your Django API endpoint URL
+        // const data = await response.json();
+        const data = response.data;
+        // console.log(data);
+        setProducts(data);
+      } catch (error) {
+        console.error(error);
+      }
+    };
 
-  if (categories.length === 0) return <h1>Loading...</h1>;
-
+    fetchProducts();
+  }, []);
 
   return (
     <div>
-      <FeatureCard cards={categories} />
-      <ProductCard />
+      {/* <FeatureCard cards={categories} /> */}
+      <Categories  />
+      {
+        products.length > 0 ? ( 
+          <ProductCard products={products} />
+        ) : (
+          <div>Loading...</div>
+        )
+      }
+      {/* <ProductCard /> */}
     </div>
   );
 };

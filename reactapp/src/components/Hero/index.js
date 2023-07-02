@@ -11,25 +11,30 @@ export default function Hero() {
               {/* <br class="hidden lg:inline-block"> readymade gluten */}
             </h1>
             <p class="mb-8 leading-relaxed">
-              Copper mug try-hard pitchfork pour-over freegan heirloom neutra
-              air plant cold-pressed tacos poke beard tote bag. Heirloom echo
-              park mlkshk tote bag selvage hot chicken authentic tumeric
-              truffaut hexagon try-hard chambray.
+              <span className="text-black font-semibold capitalize ">
+                Unleash the Power of Knowledge:
+              </span>{" "}
+              Books have the power to transform lives and broaden horizons. At
+              BookWorm's Haven, we believe in the transformative nature of
+              knowledge. Dive into our curated selection of non-fiction titles
+              that explore a wide range of topics, including history, science,
+              philosophy, self-help, and more. Expand your mind and unlock new
+              possibilities!
             </p>
-            <div class="flex justify-center">
+            {/* <div class="flex justify-center">
               <button class="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">
                 Button
               </button>
               <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
                 Button
               </button>
-            </div>
+            </div> */}
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
             <img
               class="object-cover object-center rounded"
               alt="hero"
-              src="https://dummyimage.com/720x600"
+              src="https://www.linkpicture.com/q/image_1.webp"
             />
           </div>
         </div>

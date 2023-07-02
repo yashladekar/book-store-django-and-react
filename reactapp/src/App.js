@@ -8,6 +8,7 @@ import Page404 from "./components/Page404";
 import { Routes, Route } from "react-router-dom";
 
 import SearchResults from "./components/SearchResults";
+import CategoryProducts from "./modules/CategoryProducts";
 
 function App() {
   return (
@@ -18,6 +19,10 @@ function App() {
         <Route path="/products/:id" element={<Product />} />
         <Route path="/products" element={<Products />} />
         <Route path="/results" element={<SearchResults />} />
+        <Route
+          path="/categories/:name"
+          element={<CategoryProducts  />}
+        />
         <Route path="*" element={<Page404 />} />
       </Routes>
       <Footer />
