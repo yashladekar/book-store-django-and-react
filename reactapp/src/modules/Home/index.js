@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import Hero from "../../components/Hero";
-import Products from "../../components/Products";
+import ProductCard from "../../components/ProductCard";
 import FeatureCard from "../../components/FeatureCard";
 import Stats from "../../components/StatCard";
 import { useState } from "react";
@@ -35,12 +35,12 @@ const Home = () => {
         </h1>
       </div>
       {products.length > 0 ? (
-        <Products products={products} />
+        <ProductCard products={products} />
       ) : (
         <div>Loading...</div>
       )}
 
-      <Products />
+      {/* <Products /> */}
       {/* <Products  products={products}/> */}
       <FeatureCard />
       <Stats />

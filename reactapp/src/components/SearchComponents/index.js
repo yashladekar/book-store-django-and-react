@@ -1,12 +1,29 @@
 import React, { useState } from "react";
+import axios from "axios";
+import { useNavigate } from "react-router-dom";
 
 function SearchComponents() {
   const [searchQuery, setSearchQuery] = useState("");
+  const navigate = useNavigate();
 
   const handleSearch = () => {
     // Perform book search using the searchQuery state
     console.log("Search query:", searchQuery);
-    // You can replace the console.log with your actual search logic
+
+    // Call the backend API
+    axios
+      .get("http://localhost:8000/books/", {
+        params: {
+          search: searchQuery,
+        },
+      })
+      .then((response) => {
+        // Navigate to the results page and pass the results as state
+        navigate("/results", { state: { results: response.data } });
+      })
+      .catch((error) => {
+        console.log("Error with the search API", error);
+      });
   };
 
   const handleInputChange = (event) => {

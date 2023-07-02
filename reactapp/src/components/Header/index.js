@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import SearchComponents from "../SearchComponents";
 const navigations = [
-  { name: "Home", href: "/", current: true },
-  { name: "Products", href: "/products", current: false },
+  { name: "Home", href: "/",  },
+  { name: "Products", href: "/products", },
   // { name: "About", href: "/about", current: false },
   // { name: "Contact", href: "/contact", current: false },
 ];
@@ -33,25 +33,21 @@ export default function Header() {
             <span className="ml-3 text-xl">BooksLabs</span>
           </Link>
           <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-            {navigations.map((navigation) => (
+            {/* {navigations.map((navigation) => (
               <Link to={navigation.href} className="mr-5 hover:text-gray-900">
                 {navigation.name}
               </Link>
             ))}
-            <SearchComponents />
+            <SearchComponents /> */}
 
-            {/* <a className="mr-5 hover:text-gray-900" href="/">
-              First Link
+            <a className="mr-5 hover:text-gray-900" href="/products">
+              products
             </a>
-            <a className="mr-5 hover:text-gray-900" href="/">
+            {/* <a className="mr-5 hover:text-gray-900" href="/">
               Second Link
             </a>
-            <a className="mr-5 hover:text-gray-900" href="/">
-              Third Link
-            </a>
-            <a className="mr-5 hover:text-gray-900" href="/">
-              Fourth Link
-            </a> */}
+             */}
+             <SearchComponents />
           </nav>
           <button className="inline-flex items-center bg-gray-100 border-0 px-4 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 py-2 ">
             My Cart
