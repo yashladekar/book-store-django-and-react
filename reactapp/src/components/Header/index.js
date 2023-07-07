@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import SearchComponents from "../SearchComponents";
 const navigations = [
-  { name: "Home", href: "/",  },
-  { name: "Products", href: "/products", },
+  { name: "Home", href: "/" },
+  { name: "Products", href: "/products" },
   // { name: "About", href: "/about", current: false },
   // { name: "Contact", href: "/contact", current: false },
 ];
@@ -16,8 +16,7 @@ export default function Header() {
           <Link
             to={"/"}
             className="flex cursor-pointer title-font font-medium items-center text-gray-900 mb-4 md:mb-0"
-            href="/"
-          >
+            href="/">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -26,8 +25,7 @@ export default function Header() {
               stroke-linejoin="round"
               stroke-width="2"
               className="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
-              viewBox="0 0 24 24"
-            >
+              viewBox="0 0 24 24">
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
             <span className="ml-3 text-xl">BooksLabs</span>
@@ -40,16 +38,20 @@ export default function Header() {
             ))}
             <SearchComponents /> */}
 
-            <a className="mr-5 hover:text-gray-900" href="/products">
+            <a
+              className="mr-5 border  py-4 px-5 bg-cyan-50 rounded text-black-200 font-semibold hover:text-gray-900"
+              href="/products">
               products
             </a>
-            {/* <a className="mr-5 hover:text-gray-900" href="/">
-              Second Link
+            <a
+              className="mr-5 border py-4 px-5 bg-cyan-50 rounded text-black-200 font-semibold hover:text-gray-900 capitalize "
+              href="/priceSearch">
+              Price Search
             </a>
-             */}
-             <SearchComponents />
+
+            <SearchComponents />
           </nav>
-          <button className="inline-flex items-center bg-gray-100 border-0 px-4 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 py-2 ">
+          {/* <button className="inline-flex items-center bg-gray-100 border-0 px-4 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 py-2 ">
             My Cart
             <svg
               fill="none"
@@ -58,11 +60,10 @@ export default function Header() {
               stroke-linejoin="round"
               stroke-width="2"
               className="w-4 h-4 ml-1"
-              viewBox="0 0 24 24"
-            >
+              viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
-          </button>
+          </button> */}
         </div>
       </header>
     </div>

@@ -9,7 +9,7 @@ import { Routes, Route } from "react-router-dom";
 
 import SearchResults from "./components/SearchResults";
 import CategoryProducts from "./modules/CategoryProducts";
-
+import AdvancedSearch from "./components/AdvancedSearch";
 function App() {
   return (
     <div className="App">
@@ -19,10 +19,8 @@ function App() {
         <Route path="/products/:id" element={<Product />} />
         <Route path="/products" element={<Products />} />
         <Route path="/results" element={<SearchResults />} />
-        <Route
-          path="/categories/:name"
-          element={<CategoryProducts  />}
-        />
+        <Route path="/categories/:name" element={<CategoryProducts />} />
+        <Route path="/priceSearch" element={<AdvancedSearch />} />
         <Route path="*" element={<Page404 />} />
       </Routes>
       <Footer />
